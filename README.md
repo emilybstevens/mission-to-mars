@@ -25,8 +25,13 @@ were displayed in a separate section of the app.
 ![App Screenshot](Resources/app_screenshot_hemi.png)
 ### Mobile App
 ![Mobile App Screenshot](Resources/app_mobile_screenshot_hemi.png)
-## Stylization
 
+
+## Stylization
+Utilizing Bootstrap3 and the previously created HTML template, the app was stylized to make it more visually appealing. 
+Different sections were highlighted in different colors to ensure a pleasant user experience.
+In addition, a red-based color palate was used to blend the user interface seamlessly with the red surface of Mars, preventing any
+disconcerting color combinations. 
 
 ### Desktop App
 ![App Screenshot](Resources/bootstrap_update_screenshot.png)
